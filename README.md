@@ -25,10 +25,10 @@ This project demonstrates a web-based application that allows users to input nat
 ## Screenshots
 
 ### 1. Fetching Average Marks of All Students Class-Wise
-![Average Marks](![Screenshot 2025-01-16 114120](https://github.com/user-attachments/assets/5de2df30-0afe-46ba-b2a2-c45e6f2bf56e))
+![Screenshot 2025-01-16 114120](https://github.com/user-attachments/assets/5de2df30-0afe-46ba-b2a2-c45e6f2bf56e)
 
 ### 2. Fetching Student Name with Second Highest Marks Class-Wise
-![Second Highest Marks](![Screenshot 2025-01-16 113924](https://github.com/user-attachments/assets/bdf9aa1e-5d83-4687-aef9-f7c34241f415))
+![Screenshot 2025-01-16 113924](https://github.com/user-attachments/assets/bdf9aa1e-5d83-4687-aef9-f7c34241f415)
 
 ## How to Run the Application
 
