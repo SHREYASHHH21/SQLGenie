@@ -1,4 +1,4 @@
-# Gemini App To Retrieve SQL Data
+# SQLGenie
 
 This project demonstrates a web-based application that allows users to input natural language queries and receive SQL-generated results directly. The app uses an AI model to convert text inputs into SQL queries, which are executed to fetch data from a database. It simplifies database interactions, enabling non-technical users to retrieve data effortlessly.
 
